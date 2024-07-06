@@ -1,0 +1,1 @@
+ C:\\Users\\bruno\\Desktop\\projects\\GasteiQuanto\\gastei_quanto\\.dart_tool\\flutter_build\\7e9634161b2d2fbb793d6c08371b6608\\native_assets.yaml: 
